@@ -31,8 +31,11 @@ Se parte de un conjunto de datos históricos de 4 tiendas con el objetivo de:
 ## 🗂️ Estructura del Proyecto
 
 ├── data/
+
 │ └── tienda.csv # Datos originales de las tiendas
+
 ├── AluraStoreLatam.ipynb # Notebook principal con el análisis
+
 ├── README.md # Este archivo
 
 ---
@@ -48,6 +51,7 @@ Ejecutar desde:
 Abre el notebook AluraStoreLatam.ipynb en Jupyter o haz clic en el botón de Colab arriba.
 
 📌 Resultados Esperados
+
 -Gráficos comparativos entre tiendas.
 
 -Análisis de rentabilidad y costos de envío.
@@ -55,6 +59,7 @@ Abre el notebook AluraStoreLatam.ipynb en Jupyter o haz clic en el botón de Col
 Recomendación final sobre qué tienda vender.
 
 📎 Notas
+
 En este análisis los datos son ficticios.
 
 Puedes adaptar el proyecto para otros escenarios de evaluación empresarial.
