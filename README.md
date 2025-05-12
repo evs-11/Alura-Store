@@ -44,7 +44,7 @@ Se parte de un conjunto de datos históricos de 4 tiendas con el objetivo de:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/evs-11/Alura-Store.git/AluraStoreLatam.ipynb
+   git clone https://github.com/evs-11/Alura-Store.git
    
 Ejecutar desde:
 
@@ -56,7 +56,7 @@ Abre el notebook AluraStoreLatam.ipynb en Jupyter o haz clic en el botón de Col
 
 -Análisis de rentabilidad y costos de envío.
 
-Recomendación final sobre qué tienda vender.
+-Recomendación final sobre qué tienda vender.
 
 📎 Notas
 
