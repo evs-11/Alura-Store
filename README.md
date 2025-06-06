@@ -4,7 +4,7 @@
 
 Este proyecto tiene como objetivo analizar el desempeño de **4 tiendas** con el fin de determinar cuál de ellas puede ser vendida. Utilizando herramientas de análisis de datos y visualización, se exploran métricas clave como categorias de productos, costos de envíos, calificación y más.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evs-11/Alura-Store/blob/main/alura_store_analysis.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evs-11/Alura-Store/blob/main/AluraStoreLatam.ipynb)
 
 ---
 
